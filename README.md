@@ -1,10 +1,7 @@
-Here's a more organized and formatted version for your project’s `README.md` file:
 
----
+# $TEP IDLER 🎮
 
-# Project Name 🎮
-
-A tool to automate game management and configuration on both local machines and VPS servers. Supports idling games on Steam.
+A tool to idling games on Steam.
 
 ---
 
