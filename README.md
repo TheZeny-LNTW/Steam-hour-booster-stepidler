@@ -19,7 +19,7 @@ A tool for idling Steam games effortlessly.
 
 4. **Create `.env` file in `frontend` folder**  
    Add the following line to `.env`:  
-      VITE_API_BASE=http://localhost:3001/api
+      `VITE_API_BASE=http://localhost:3001/api`
 
 5. **To start the app, run `start.bat`**  
 This will launch both backend and frontend and open the dashboard in your browser.
