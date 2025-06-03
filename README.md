@@ -14,5 +14,5 @@ A tool for idling Steam games effortlessly.
    
 3. **Open install.bat**  
 
-4. ** Open start.bat**  
+4. **Open start.bat**  
    
